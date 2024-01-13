@@ -21,13 +21,13 @@ Scripting Language: Python, R Programming
 KEY QUESTION OF THE RESEARCH STUDY:
 How do gaming habits, combined with various personal and societal factors, influence ones psychological health and employment status?
 
-REASEARCH OBJECTIVE
+REASEARCH OBJECTIVE:
 “What is the relationship between anxiety levels (GAD) on various factors, including Satisfaction With Life Total (SWL_T), Social Phobia Inventory Total (SPIN_T), Narcissism, Hours of play, Reasons to Play (whyplay), Work Status(work), and Play Style(playstyle) preferences?”
 
-TECHNICAL SIGNIFICANCE
+TECHNICAL SIGNIFICANCE:
 Unraveling the complex interplay of diverse factors using predictive modeling and data analysis to better understand human behaviors.
 
-SOCIETAL IMPACT
+SOCIETAL IMPACT:
 Inform policymakers and educators about the relationship between gaming, mental well-being, and employment and also offer insights to mental health professionals to address potential issues arising from gaming habits.
 
 CONTRIBUTION TO DATA SCIENCE:
